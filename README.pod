@@ -1,0 +1,44 @@
+=encoding utf8
+
+=head1 NAME
+
+Data::GUID - Perl 6 interface to generate
+
+=head1 SYNOPSIS
+
+    use Data::GUID;
+    say Data::GUID.new.hex;
+
+=head1 DESCRIPTION
+
+This module allows to paste to create GitHub Gists as retrieve them.
+
+=head1 METHODS
+
+=head2 C<new>
+
+    Data::GUID.new;
+
+Creates new C<Data::GUID> object.
+
+=head1 REPOSITORY
+
+Fork this module on GitHub:
+L<https://github.com/zoffixznet/perl6-Data-GUID>
+
+=head1 BUGS
+
+To report bugs or request features, please use
+L<https://github.com/zoffixznet/perl6-Data-GUID/issues>
+
+=head1 AUTHOR
+
+Zoffix Znet L<http://zoffix.com/>
+
+=head1 LICENSE
+
+You can use and distribute this module under the same terms as Perl 6
+itself. See the C<LICENSE> file included in this distribution for complete
+details.
+
+=cut
