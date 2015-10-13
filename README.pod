@@ -1,5 +1,11 @@
 =encoding utf8
 
+=head1 NOT IMPLEMENTED YET
+
+B<NOTE: this module is currently being worked on and this repo exists
+to let other devs know that someone is working on Perl 6 version for this
+task, so we don't duplicate efforts>
+
 =head1 NAME
 
 Data::GUID - Perl 6 interface to generate
